@@ -1,0 +1,15 @@
+{
+  "name": "joko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "launch": "node index.js",
+    "test": "jest ."
+  },
+  "author": "Y\tanis Breton",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
